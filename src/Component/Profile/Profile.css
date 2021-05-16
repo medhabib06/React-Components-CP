@@ -1,0 +1,23 @@
+.Photo {
+    padding-top: 10mm;
+  text-align: center;
+}
+
+.img {
+  border-radius: 10px;
+  width: 15%;
+  border: 0.5cm;
+  border: 5px solid rgb(0, 9, 133);
+}
+
+.address{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(6, 83, 155);
+}
+
+.Name{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(9, 3, 85);
+}
